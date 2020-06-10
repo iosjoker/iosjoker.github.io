@@ -2,17 +2,22 @@
 	<footerlinks>
 		<link>
 			<name>تابعني ع تويتر</name>
-			<url>https://twitter.com/kgfunn</url>
+			<url>https://twitter.com/kingoffun9</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+        <link>
+			<name>تابعني ع تويتر</name>
+			<url>https://twitter.com/7mo0dd9</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
         <link>
             <name>ادعمني بايبال</name>
-            <url>https://www.paypal.me/kgfunn</url>
+            <url>https://www.paypal.me/mejoker</url>
             <iconclass>fa fa-paypal</iconclass>
         </link>
 		<link>
 			<name>تابعني على اليوتيوب</name>
-			<url>https://www.youtube.com/user/monwahat</url>
+			<url>https://www.youtube.com/channel/UCloWk6A3tVsE2A7w5EW8oMQ?view_as=public</url>
 			<iconclass>fa fa-youtube</iconclass>
 		</link>
 	</footerlinks>
